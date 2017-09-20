@@ -3,7 +3,7 @@
 # Define accompanying passwords/secrets in group_vars/development/vault.yml
 
 wordpress_sites:
-  jackolantern.io:
+  jackolantern.dev:
     site_hosts:
       - canonical: jackolantern.dev
         redirects:
